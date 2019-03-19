@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/TenXamarinD2/TenXamarinD2/TenXamarinD2/bin/Debug/netstandard2.0
+/src/TenXamarinD2/TenXamarinD2/TenXamarinD2/obj
+/src/TenXamarinD2/TenXamarinD2/TenXamarinD2.Android/obj
+/src/TenXamarinD2/TenXamarinD2/TenXamarinD2.Android/bin/Debug
+/src/TenXamarinD2/.vs/TenXamarinD2/v15
